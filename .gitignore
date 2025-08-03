@@ -1,0 +1,31 @@
+# === Gradle ===
+/build/
+/.gradle/
+/out/
+
+# === IntelliJ / JetBrains ===
+.idea/
+/*.iml
+
+# === Eclipse ===
+.classpath
+.project
+.settings/
+
+# === VSCode ===
+.vscode/
+
+# === OS-generated ===
+.DS_Store
+Thumbs.db
+
+# === Runtime junk ===
+run/
+
+# === Log files ===
+*.log
+
+# === Other ===
+*.jar
+
+
